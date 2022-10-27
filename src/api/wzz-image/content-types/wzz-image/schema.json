@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wzz_images",
+  "info": {
+    "singularName": "wzz-image",
+    "pluralName": "wzz-images",
+    "displayName": "wzzImage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "src": {
+      "type": "text"
+    },
+    "mode": {
+      "type": "string"
+    },
+    "lazyLoad": {
+      "type": "boolean"
+    },
+    "showMenuByLongpress": {
+      "type": "boolean"
+    },
+    "class": {
+      "type": "string"
+    },
+    "styles": {
+      "type": "text"
+    }
+  }
+}

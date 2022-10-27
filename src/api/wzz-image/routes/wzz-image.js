@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * test router
+ * wzz-image router
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
-module.exports = createCoreRouter('api::test.test');
+module.exports = createCoreRouter('api::wzz-image.wzz-image');

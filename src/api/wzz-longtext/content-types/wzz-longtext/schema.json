@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wzz_longtexts",
+  "info": {
+    "singularName": "wzz-longtext",
+    "pluralName": "wzz-longtexts",
+    "displayName": "wzzLongtext",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "value": {
+      "type": "text"
+    },
+    "styles": {
+      "type": "text"
+    },
+    "class": {
+      "type": "string"
+    }
+  }
+}

@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * student controller
+ * wzz-text controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::student.student');
+module.exports = createCoreController('api::wzz-text.wzz-text');

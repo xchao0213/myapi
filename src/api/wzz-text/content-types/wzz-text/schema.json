@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wzz_texts",
+  "info": {
+    "singularName": "wzz-text",
+    "pluralName": "wzz-texts",
+    "displayName": "wzzText",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "value": {
+      "type": "string"
+    },
+    "styles": {
+      "type": "text"
+    },
+    "class": {
+      "type": "string"
+    }
+  }
+}

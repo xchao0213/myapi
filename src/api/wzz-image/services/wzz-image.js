@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * student service
+ * wzz-image service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::student.student');
+module.exports = createCoreService('api::wzz-image.wzz-image');
